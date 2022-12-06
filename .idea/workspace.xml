@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bce877e8-7562-445d-82e8-b827c35bd3dc" name="Changes" comment="" />
+    <list default="true" id="bce877e8-7562-445d-82e8-b827c35bd3dc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,8 +26,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/razvanpasc/Documents/Facultate/AN4/DS2022_30642_Pasc_Razvan_Assignment_1/spring-app/src/main/java/ro/tuc/ds2020",
+    "last_opened_file_path": "/Users/razvanpasc/Documents/Facultate/AN4/DS2022_30642_Pasc_Razvan_Assignment_2",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
@@ -45,6 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670231490364</updated>
       <workItem from="1670231491659" duration="2004000" />
+      <workItem from="1670244525364" duration="1271000" />
     </task>
     <servers />
   </component>
